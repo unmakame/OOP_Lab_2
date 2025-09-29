@@ -37,3 +37,4 @@ class Binary
 
         static std::string toString(const Binary& num);
 };
+

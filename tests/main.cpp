@@ -14,12 +14,12 @@ TEST(BinaryConstructorTest, SizeConstructor) {
 
 TEST(BinaryConstructorTest, InitializerListConstructor) {
     Binary b{1, 0, 1, 1};
-    EXPECT_EQ(Binary::toString(b), "1101");  // Было "1011" - стало "1101"
+    EXPECT_EQ(Binary::toString(b), "1101");  
 }
 
 TEST(BinaryConstructorTest, StringConstructor) {
     Binary b3("0001101");
-    EXPECT_EQ(Binary::toString(b3), "0001101");  // Было "1101" - стало "0001101"
+    EXPECT_EQ(Binary::toString(b3), "0001101");  
 }
 
 TEST(BinaryConstructorTest, InvalidStringConstructor) {

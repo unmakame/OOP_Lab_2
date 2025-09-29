@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <stdexcept>
-#include "/Users/vladislavbaanov/Desktop/OOP_Laba_2/include/binary.hpp"
+#include "binary.hpp"
 
 int main() 
 {
