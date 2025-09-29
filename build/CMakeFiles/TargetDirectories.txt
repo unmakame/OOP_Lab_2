@@ -1,0 +1,5 @@
+/Users/vladislavbaanov/Desktop/OOP_Laba_2/build/CMakeFiles/binary_calculator.dir
+/Users/vladislavbaanov/Desktop/OOP_Laba_2/build/CMakeFiles/binary_tests.dir
+/Users/vladislavbaanov/Desktop/OOP_Laba_2/build/CMakeFiles/test.dir
+/Users/vladislavbaanov/Desktop/OOP_Laba_2/build/CMakeFiles/edit_cache.dir
+/Users/vladislavbaanov/Desktop/OOP_Laba_2/build/CMakeFiles/rebuild_cache.dir
